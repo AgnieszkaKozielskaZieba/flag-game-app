@@ -1,0 +1,24 @@
+.flagPict{
+	border: 2px black solid;
+	width: 50%;
+}
+
+.nextButton{
+	/*margin-left: 20px;*/
+}
+
+.GuessForm{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 50%;
+	flex-wrap: wrap;
+	margin: 20px auto;
+}
+
+button{
+	font-family: 'Montserrat', sans-serif;
+}
+form div{
+	text-align: left;
+}
