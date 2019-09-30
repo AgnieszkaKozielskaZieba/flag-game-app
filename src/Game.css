@@ -1,13 +1,13 @@
-.flagPict{
+.flagPict {
 	border: 2px black solid;
 	width: 50%;
 }
 
-.nextButton{
+.nextButton {
 	/*margin-left: 20px;*/
 }
 
-.GuessForm{
+.GuessForm {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -16,9 +16,9 @@
 	margin: 20px auto;
 }
 
-button{
-	font-family: 'Montserrat', sans-serif;
+button {
+	font-family: "Montserrat", sans-serif;
 }
-form div{
+form div {
 	text-align: left;
 }
